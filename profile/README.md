@@ -11,8 +11,6 @@
 
 ## 此外还包括了**接口文档**：分别存放在《博客前台》和《博客后台》 的“Interface” 文件夹下 
 
-项目的整体架构
-
 ![image](https://github.com/Luffa-Blog/.github/assets/52227746/55f47367-036c-4e72-adfb-218e0ef08210)
 
 
